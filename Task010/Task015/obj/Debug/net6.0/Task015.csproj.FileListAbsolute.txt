@@ -1,0 +1,5 @@
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\CLASSES 171022\Task010\Task015\obj\Debug\net6.0\Task015.csproj.AssemblyReference.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\CLASSES 171022\Task010\Task015\obj\Debug\net6.0\Task015.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\CLASSES 171022\Task010\Task015\obj\Debug\net6.0\Task015.AssemblyInfoInputs.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\CLASSES 171022\Task010\Task015\obj\Debug\net6.0\Task015.AssemblyInfo.cs
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\CLASSES 171022\Task010\Task015\obj\Debug\net6.0\Task015.csproj.CoreCompileInputs.cache
